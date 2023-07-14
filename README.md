@@ -5,5 +5,5 @@ Yatra is the Ride Sharing App
 - [ ] User Integration
     -[ ]Login
     -[ ]Register
-        -[ ] Driver
-        -[ ] Passenger
+        -[ ]Driver
+        -[ ]Passenger
