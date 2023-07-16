@@ -5,7 +5,7 @@ const app = express()
 const port = 4000
 app.use(express.json())
 const { Schema } = mongoose;
-mongoose.connect('mongodb://localhost:27017/muliVendorDb');
+mongoose.connect('mongodb://localhost:27017/Ecommerce');
  
 const productSchema = new Schema({
  productName: String, // String is shorthand for {type: String}
