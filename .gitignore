@@ -31,7 +31,8 @@ build/Release
 server/node_modules
 server/node_modules
 jspm_packages
-
+**/.env
+server/.env
 # Optional npm cache directory
 .npm
 
